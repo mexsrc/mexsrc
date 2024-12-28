@@ -3,7 +3,7 @@ Notice: this README.md is designed for better option variant of description, det
 
 Changelog:
 1.0.0 - initial release thrus Mex's description.
---!>
+-->
 
 <!DOCTYPE html>
 <html>
